@@ -1,0 +1,35 @@
+{
+  "name": "crm-sys",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "core-js": "^3.4.4",
+    "firebase": "^7.6.1",
+    "lodash": "^4.17.15",
+    "materialize-css": "^1.0.0-rc.2",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-chartjs": "^3.5.0",
+    "vue-router": "^3.1.3",
+    "vuejs-paginate": "^2.1.0",
+    "vuelidate": "^0.7.4",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-pwa": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
